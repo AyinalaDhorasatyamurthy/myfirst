@@ -5,3 +5,6 @@ welcome to the satya's kitchen
 sambar
 pappu
 laddu
+
+beans
+rasam
